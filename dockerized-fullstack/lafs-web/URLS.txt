@@ -1,0 +1,2 @@
+    API URL / Endpoint: https://agkrwvu9te.execute-api.us-east-1.amazonaws.com/api
+    S3 URL / Endpoint: http://cs470-vf.s3-website-us-east-1.amazonaws.com/
