@@ -1,5 +1,7 @@
 # CS-470
 
+Presentation on AWS: https://www.youtube.com/watch?v=yJ0ggh5Pk1k
+
 "Due to the nature of cloud services and the security features that create unique IDs, it would be both redundant and a security risk to post any of the AWS code to GitHub."
 
 # Full Stack Development
